@@ -1,0 +1,19 @@
+# Core dependencies
+pylatex>=1.4.1
+bibtexparser>=1.4.0
+PyPDF2>=2.0.0
+PyQt6>=6.4.0
+
+# System tray icon
+pystray>=0.19.4
+pillow>=9.0.0
+
+# Testing
+pytest>=7.0.0
+
+# Code quality
+black>=22.0.0
+flake8>=4.0.0
+
+# Development
+setuptools>=60.0.0 

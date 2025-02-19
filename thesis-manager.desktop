@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Thesis Manager
+Comment=Malaysian University Thesis Template Manager
+Exec=/usr/local/bin/thesis_manager.py
+Icon=/usr/share/icons/thesis_icon.png
+Terminal=false
+Type=Application
+Categories=Office;Education; 

@@ -1,0 +1,42 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of the software are you running?
+    validations:
+      required: true
+  - type: dropdown
+    id: university
+    attributes:
+      label: University
+      description: Which university template are you using?
+      options:
+        - UM
+        - USM
+        - UKM
+        - UPM
+        - UTM
+        - Taylor's
+        - Sunway
+        - MMU
+        - UTP
+        - IIUM
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us what you expected to happen
+      placeholder: Tell us what you see!
+    validations:
+      required: true 
