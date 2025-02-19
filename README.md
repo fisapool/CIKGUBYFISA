@@ -147,20 +147,37 @@ make html
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
+
+Copyright (c) 2024 FISA Trading
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+See the [LICENSE](LICENSE) file for the full license text.
 
 ## Acknowledgments
 
 - Thanks to all Malaysian universities for their thesis guidelines
 - PyLaTeX team for the excellent LaTeX library
 - Qt team for the GUI framework
+- FISA Trading team for project maintenance and support
 
 ## Support
 
 For support, please:
 1. Check the [documentation](docs/)
-2. Open an issue
-3. Contact the maintainers
+2. Open an issue on GitHub
+3. Contact FISA Trading:
+   - GitHub: [@fisapool](https://github.com/fisapool)
+   - Shopee: [FISA Trading](https://shopee.com.my/fisatrading)
 
 ## Roadmap
 
@@ -172,7 +189,9 @@ For support, please:
 
 ## Authors
 
-- Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
+- FISA Trading - Initial work - [fisapool](https://github.com/fisapool)
+  - Shopee: [FISA Trading](https://shopee.com.my/fisatrading)
+  - Contact: [Insert preferred contact method]
 
 ## Project Status
 
